@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pancheeze
 - 👀 I’m interested in C language and other coding stuffs
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate to sort of peeps who really know how to code
+- 💞️ I’m looking to collaborate with sort of peeps who really know how to code
 - 📫 How to reach me: just dm me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
